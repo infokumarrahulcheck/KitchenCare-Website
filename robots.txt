@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://kitchencare.life/sitemap.xml
+
+Sitemap: https://kitchencare.life/sitemap.txt
